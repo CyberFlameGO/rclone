@@ -123,7 +123,7 @@ require (
 	google.golang.org/genproto v0.0.0-20211104193956-4c6863e31247 // indirect
 	google.golang.org/grpc v1.42.0 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.0 // indirect
 	storj.io/common v0.0.0-20210916151047-6aaeb34bb916 // indirect
 	storj.io/drpc v0.0.26 // indirect
 )
